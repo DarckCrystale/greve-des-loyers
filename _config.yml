@@ -5,10 +5,10 @@ email: your-email@domain.com
 description: >
   Un site répertoriant les ressources que nous mettons collectivement en ligne pour organiser une grève des loyers durant l'épidémie du Coronavirus Covid-19.
 baseurl: "/greve-des-loyers"
-url: ""
+url: "https//test.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: ""
+gh_sponsor: test
 
 paginate: 5
 paginate_path: "/blog/page:num"
