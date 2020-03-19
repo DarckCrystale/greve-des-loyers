@@ -1,14 +1,14 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: Grève des loyers 2020
+tagline: Grève des loyers
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  Un site répertoriant les ressources que nous mettons collectivement en ligne pour organiser une grève des loyers durant l'épidémie du Coronavirus Covid-19.
+baseurl: "/greve-des-loyers"
+url: ""
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+gh_sponsor: ""
 
 paginate: 5
 paginate_path: "/blog/page:num"
