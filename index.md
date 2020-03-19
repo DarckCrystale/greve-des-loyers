@@ -6,47 +6,31 @@ callouts:
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# Qu'est-ce que la grève des loyers ?
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+La grève des loyers est un mode de protestation couramment utilisé contre des propriétaires dans le contexte britannique. Dans une grève des loyers, un groupe de locataires se réunit et refuse de payer son loyer en masse jusqu'à ce qu'une liste de revendications soit satisfaite. Ce moyen de lutte peut s'avérer efficace dans un rapport de force contre un propriétaire mais comporte un risque d'expulsion pour les locataires.
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
+Historiquement, les grèves de loyer sont apparues pour faire face à des loyers élevés, des conditions de logement précaires ou des demandes de propriétaires jugées abusives; cependant, des situations où des contextes socio-économiques plus vastes ont pu conduire à un tel mode d'action.
 
-## Ruby Gem
+[Rent Strike sur Wikipedia](https://en.wikipedia.org/wiki/Rent_strike)
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme)
+## Pourquoi une grève des loyers en France en 2020 est-elle organisée ?
 
-## GitHub Pages
+L'épidémie du covid-19 provoque actuellement une crise sanitaire qui a un impact à l'échelle nationale. Durant cette dépression, une grande partie des français.es sera dans l'incapacité de payer tout ou partie de son logement, du fait de la réduction de nos revenus. Les conséquences de cette crise étant dues aux politiques libérales des 40 dernières années, nous sommes déterminé.es à nous battre de toutes nos forces par tous les moyens à notre disposition.
 
-The theme can be used with GitHub Pages bu setting the `remote_theme` in your Jekyll sites `_config.yml`
+Nous avons donc décidé de nous organiser de manière à lancer une grève des loyers à l'échelle du pays pour protéger les personnes les plus précaires.
 
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
+## Je veux participer, que puis-je faire ?
 
-## Instructions
+Vous pouvez vous joindre à nous et apporter votre pierre à l'édifice de différentes manières, par exemple :
 
-For full instructions, please see the Readme at the GitHub repo:
-[https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md](https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md)
+- en affichant dans votre immeuble les tracts que nous mettons à votre disposition dans la section Tracts
+- en parlant à votre entourage de la grève des loyers et en leur proposant d'y participer
+- en vous organisant avec les autres locataires de votre immeuble pour refuser de payer votre loyer
+- en créant des tracts, affiches, courriers, vidéos, podcasts, notes de blog, etc. concernant la grève des loyers et en les partageant avec nous
+- en mettant en ligne des ressources permettant de facilement créer des documents concernant la grève
+- en refusant de payer votre loyer
+- en envoyant un courrier à votre banque / votre agence / votre propriétaire expliquant les raisons de votre refus ou incapacité à payer votre loyer
+- en fournissant à votre entourage / vos voisin.es, au format papier, le courrier expliquant les raisons du refus ou incapacité à payer le loyer, qu'iels pourront envoyer à leur banque / agence / propriétaire
 
-## Page Layouts
-
-This demo site showcases the available page layout options.
-
-* Page With Sidebar
-* Page Without Sidebar
-* Page With Menubar
-* Page With Tabs
-* Page Without Footer
-* Page Without Hero
-* Page With Contents
-* Landing Page With Callouts
-* Blog
-* Post
-
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
+Cette liste est non-exhaustive et sera régulièrement mise à jour avec de nouvelles activités que vous pouvez réaliser pour nous aider.
