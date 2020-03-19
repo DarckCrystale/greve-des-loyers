@@ -8,7 +8,7 @@ baseurl: "/greve-des-loyers"
 url: ""
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: test
+gh_sponsor: 
 
 paginate: 5
 paginate_path: "/blog/page:num"
