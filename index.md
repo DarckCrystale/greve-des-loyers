@@ -2,7 +2,7 @@
 title: Grève des loyers 2020
 subtitle: Site proposant l'accès aux ressources que nous mettons en ligne
 layout: page
-callouts: home_callouts
+callouts: 
 show_sidebar: true
 ---
 
