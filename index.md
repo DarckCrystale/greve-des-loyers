@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Grève des loyers 2020
+subtitle: Site proposant l'accès aux ressources que nous mettons en ligne
 layout: page
 callouts: home_callouts
 show_sidebar: true
