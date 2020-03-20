@@ -1,8 +1,8 @@
-- name: Home
+- name: Accueil
   link: /
-- name: Blog
+- name: Ressources
+  link: /ressources/
+- name: News
   link: /blog/
-- name: Products
-  link: /products/
-- name: Privacy Policy
-  link: /privacy-policy/
+- name: Ajouter du contenu au site
+  link: /page-0/
