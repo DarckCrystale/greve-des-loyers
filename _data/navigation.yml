@@ -1,7 +1,7 @@
 - name: Ressources
   link: /ressources/
 - name: News
-  link: /news/
+  link: /blog/
 - name: Ajouter du contenu au site
   link: /#
   dropdown:
