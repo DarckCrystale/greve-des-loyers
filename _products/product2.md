@@ -33,3 +33,5 @@ Le texte dit :
 > Grève générale ! le 31 mars, nous envoyons toutes et tous notre lettre aux banques et aux propriétaires.
 > 
 > NOTA BENE : Les conséquences de cette crise sanitaire étant dues aux politiques libérales des 40 dernières années, soyons déterminé.es à nous battre de toutes nos forces pour que rien ne retourne à la normale une fois qu'on en aura fini avec ce virus.
+
+[Téléchargez l'affiche en cliquant ici](https://mamot.fr/system/media_attachments/files/008/822/170/original/398bdce453e1d21b.jpeg)
