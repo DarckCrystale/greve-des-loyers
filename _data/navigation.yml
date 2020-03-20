@@ -1,3 +1,5 @@
+- name: Ressources
+  link: /ressources/
 - name: Pages
   link: /#
   dropdown:
@@ -19,8 +21,6 @@
       link: /landing/
     - name: Sponsors Page
       link: /sponsors/
-- name: Ressources
-  link: /ressources/
 - name: Showcase
   link: /showcase/
 - name: Blog
