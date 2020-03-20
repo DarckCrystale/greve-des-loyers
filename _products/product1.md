@@ -1,23 +1,17 @@
 ---
-title: Product 1 Name
-subtitle: Product 1 tagline here
-description: This is a product description
-product_code: ABC124
+title: Logo de la grève des loyers 
+subtitle: (proposition)
+description: Première proposition de logo représentant la grève des loyers organisée en 2020
+product_code: LOGO001
 layout: product
-image: https://via.placeholder.com/640x480
-price: £1.99 + VAT
+image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/be338f83-db2d-43b8-9327-8233d94c70d5/ddss991-5eb2a406-1e49-4047-9e76-727d10b5e517.png/v1/fill/w_894,h_894,strp/logo_by_darckcrystale_ddss991-pre.png
+price: 
 features:
-    - label: Great addition to any home
-      icon: fa-location-arrow
-    - label: Comes in a range of styles
-      icon: fa-grin-stars
-    - label: Available in multiple sizes
-      icon: fa-fighter-jet
-rating: 3
+rating: 
 ---
 
-This is the content about the product.
+Ce logo a été réalisé par Darck Crystale, il est placé sous licence Creatives Commons Attribution 3.0 : tout le monde a le droit de partager et d'éditer l'image, dans un but commercial ou non.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
+Le logo est composé d'un poing tendu rouge (code couleur `#d70341`) dans une maison noire (code couleur `#000000`). Son fond est transparent.
 
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+Le fichier éditable est mis à votre disposition sur [Deviant Art](https://www.deviantart.com/darckcrystale/art/Logo-834407893). Il s'agit d'un fichier `.xcf` que vous pouvez modifier avec Glimpse ou GIMP.
