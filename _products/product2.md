@@ -1,22 +1,35 @@
 ---
-title: Product 2 Name
-subtitle: Product 2 tagline here
-product_code: ABC123
+title: Affiche Grève des Loyer
+subtitle: Réalisée le 19 mars 2020
+product_code: AFFI001
 layout: product
-image: https://via.placeholder.com/640x480
-price: £0.99 + VAT
+image: https://mamot.fr/system/media_attachments/files/008/822/170/original/398bdce453e1d21b.jpeg
+price: 
 features:
-    - label: Great addition to any home
-      icon: fa-location-arrow
-    - label: Comes in a range of styles
-      icon: fa-grin-stars
-    - label: Available in multiple sizes
-      icon: fa-fighter-jet
-rating: 3
+rating: 
 ---
 
-This is the content about the product.
+Il s'agit d'une affiche appelant à la grève des loyers. Elle est écrite en blanc (code couleur `#FFFFFF`) sur fond bleu (code couleur `#26388E`).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
+Un masque de catch est placé en haut à droite, suivi d'un long texte.
 
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+Le texte dit :
+
+> COVID-19
+> GREVE DES LOYERS ET DES CREDITS
+> 
+> Même si vous pouvez payer votre loyer d'avril ou votre échéance de crédit, d'autres ne le pourront pas : précaires, travailleurs ou travailleuses indépentantes sans client.e durant la crise, associations et petites entreprise obligées de fermer. Bref, les plus vulnérables vont se retrouver sur la paille.
+> 
+> Pour que la grève des loyers & des crédits soit reconnue comme légitime, il faut que tout le monde s'y mette.
+> 
+> Préparez donc une lettre à votre propriétaire et/ou votre banque pour lui expliquer que vous et beaucoup d'autres ne vont pas payer l'échéance d'avril 2020.
+> 
+> Créez et partagez un formulaire en ligne pour que d'autres remplissent la même lettre. Vous pouvez utiliser les supports de Framasoft pour cela, comme "Framaforms".
+> 
+> Partagez l'information via les réseaux sociaux, des envois mails, des coups de téléphone...
+> 
+> Rapprochez-vous d'avocat.es militant.es, de legal team ou de groupes politiques pour assurer une protection si votre propriétaire réagit mal.
+> 
+> Grève générale ! le 31 mars, nous envoyons toutes et tous notre lettre aux banques et aux propriétaires.
+> 
+> NOTA BENE : Les conséquences de cette crise sanitaire étant dues aux politiques libérales des 40 dernières années, soyons déterminé.es à nous battre de toutes nos forces pour que rien ne retourne à la normale une fois qu'on en aura fini avec ce virus.
