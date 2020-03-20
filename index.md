@@ -1,6 +1,6 @@
 ---
 title: Accueil
-subtitle: Site proposant l'accès aux ressources que nous mettons en ligne
+subtitle: Site proposant l'accès aux ressources que nous mettons en ligne dans le cadre de la grève des loyers 2020
 layout: page
 callouts: 
 show_sidebar: true
