@@ -1,0 +1,27 @@
+- label: Menu de la documentation
+  items:
+    - name: Introduction
+      link: /page-0/
+    - name: Pages
+      link: /page-introduction/
+      items:
+        - name: Page avec les dernières actualités
+          link: /page-1/
+        - name: Page sans les dernières actualités
+          link: /page-2/
+        - name: Page avec un menu vertical à gauche
+          link: /page-3/
+        - name: Page avec des onglets
+          link: /page-4/
+        - name: Page sans pied de page
+          link: /page-5/
+        - name: Page sans hero unit
+          link: /page-without-hero/
+        - name: Page avec du contenu
+          link: /page-with-contents/
+        - name: Page avec des appels à l'action
+          link: /landing/
+        - name: Page contenant des liens de sponsors
+          link: /sponsors/
+        - name: Page vitrine
+          link: /showcase/
