@@ -21,7 +21,7 @@
       link: /landing/
     - name: Sponsors Page
       link: /sponsors/
-- name: Showcase
-  link: /showcase/
+    - name: Showcase
+      link: /showcase/
 - name: News
   link: /news/
