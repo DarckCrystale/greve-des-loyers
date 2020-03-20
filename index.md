@@ -1,5 +1,5 @@
 ---
-title: Grève des loyers 2020
+title: Accueil
 subtitle: Site proposant l'accès aux ressources que nous mettons en ligne
 layout: page
 callouts: 
