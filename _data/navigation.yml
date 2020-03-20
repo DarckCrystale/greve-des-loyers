@@ -1,8 +1,10 @@
 - name: Ressources
   link: /ressources/
-- name: Pages
+- name: Ajouter du contenu au site
   link: /#
   dropdown:
+    - name: Introduction
+      link: /page-0/
     - name: Page With Sidebar
       link: /page-1/
     - name: Page No Sidebar
