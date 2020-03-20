@@ -1,5 +1,5 @@
 ---
-title: Affiche Grève des Loyer
+title: Affiche d'appel à la grève des Loyer
 subtitle: Réalisée le 19 mars 2020
 product_code: AFFI001
 layout: product
