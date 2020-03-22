@@ -1,6 +1,6 @@
 ---
 title: S'organiser
-subtitle: Liste des liens utiles pour échanger, travailler, militer... bref : s'organiser
+subtitle: Liste des liens utiles pour échanger, travailler, militer... bref, s'organiser
 layout: page
 callouts: 
 show_sidebar: false
