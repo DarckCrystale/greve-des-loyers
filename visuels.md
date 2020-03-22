@@ -1,7 +1,7 @@
 ---
 title: Visuels
 subtitle: Ensemble des visuels, images, logos, etc. créés dans le cadre de la grève des loyers 2020
-layout: product-category
+layout: categorie-visuels
 show_sidebar: false
 sort: title
 ---
