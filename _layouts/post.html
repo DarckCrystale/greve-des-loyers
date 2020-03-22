@@ -4,7 +4,7 @@ layout: default
 
 <div class="content">
 
-    <p>Publié le : {{ page.date | date: "%b/%m/%Y" }}</p>
+    <p>Publié le : {{ page.date | date: "%-d/%m/%Y" }}</p>
 
     {{ content }}
 </div>
