@@ -7,7 +7,9 @@
       link: /visuels/
     - name: Modèles de courriers
       link: /courriers/
-- name: News
+- name: S'organiser
+  link: /s-organiser/
+- name: Dernières actualités
   link: /blog/
 - name: Ajouter du contenu au site
   link: /#
