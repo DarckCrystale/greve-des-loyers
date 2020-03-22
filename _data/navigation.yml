@@ -1,8 +1,6 @@
 - name: Ressources
   link: /#
   dropdown:
-    - name: Toutes les ressources
-      link: /ressources/
     - name: Affiches
       link: /affiches/
     - name: Visuels
