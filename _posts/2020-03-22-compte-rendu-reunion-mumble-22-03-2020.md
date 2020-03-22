@@ -162,10 +162,17 @@ Mercredi 25 mars, 16h sur Mumble : mumble.framatalk.org
 
 ## Organisation
 **DarckCrystale :** maintenance du site, réunions vocales, rediffusionde contenus sur le fediverse
+
 **Hippolyte :** participer à la rédaction de l'appel et fédérer Telegram
+
 **Eliot :** aider pour le site et la rédaction / relecture  (et les réu s'il y en a pas trop)
+
 **Ferdi :** faire des visuels et de la mise en page
+
 **Loubna :** coup de main pour le juridique et/ ou la rédaction mais pas de ouf dans les jours qui viennent
+
 **Etinc3lle :** etre dans tous les groupes pour suivre et potentiellement aider si certain.es se retrouvent trop en galère mais principalement pour tout ce qui est redaction / relecture
+
 **Jean :** je renvois les contacts aides juridiques dès que j'ai des réponses, je filerais des liens aussi mais je me met pas sur le groupe de travail loyer, je me met sur le groupe de travail "santé gratuite" plutôt 
+
 **Lilou :** relecture des contenus
