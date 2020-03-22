@@ -24,13 +24,13 @@ Nous avons donc décidé de nous organiser de manière à lancer une grève des 
 
 Vous pouvez vous joindre à nous et apporter votre pierre à l'édifice de différentes manières, par exemple :
 
-- en affichant dans votre immeuble les tracts que nous mettons à votre disposition dans la section Tracts
-- en parlant à votre entourage de la grève des loyers et en leur proposant d'y participer
-- en vous organisant avec les autres locataires de votre immeuble pour refuser de payer votre loyer
-- en créant des tracts, affiches, courriers, vidéos, podcasts, notes de blog, etc. concernant la grève des loyers et en les partageant avec nous
-- en mettant en ligne des ressources permettant de facilement créer des documents concernant la grève
-- en refusant de payer votre loyer
+- en **parlant à votre entourage** de la grève des loyers et en leur proposant d'y participer
+- en **vous organisant avec les autres locataires** de votre immeuble pour refuser de payer votre loyer
+- en **affichant dans votre immeuble** les [affiches mises à disposition dans la section Ressources](https://darckcrystale.github.io/greve-des-loyers/ressources)
+- en **créant** des tracts, affiches, courriers, vidéos, podcasts, notes de blog, etc. concernant la grève des loyers et en les partageant avec nous
+- en **mettant en ligne des applicatifs** permettant de facilement créer des documents concernant la grève
 - en envoyant un courrier à votre banque / votre agence / votre propriétaire expliquant les raisons de votre refus ou incapacité à payer votre loyer
 - en fournissant à votre entourage / vos voisin.es, au format papier, le courrier expliquant les raisons du refus ou incapacité à payer le loyer, qu'iels pourront envoyer à leur banque / agence / propriétaire
+- en **refusant de payer votre loyer**
 
 Cette liste est non-exhaustive et sera régulièrement mise à jour avec de nouvelles activités que vous pouvez réaliser pour nous aider.
