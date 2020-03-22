@@ -1,7 +1,7 @@
 ---
 title: Courriers
 subtitle: Ensemble des modèles de courriers réalisés dans le cadre de la grève des loyers 2020
-layout: categorie-affiche
+layout: categorie-courrier
 show_sidebar: false
 sort: title
 ---
