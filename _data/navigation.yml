@@ -5,6 +5,8 @@
       link: /ressources/
     - name: Affiches
       link: /affiches/
+    - name: Visuels
+      link: /visuels/
 - name: News
   link: /blog/
 - name: Ajouter du contenu au site
