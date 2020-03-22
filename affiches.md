@@ -4,5 +4,6 @@ subtitle: Ensemble des affiches réalisées dans le cadre de la grève des loyer
 layout: product-category
 show_sidebar: false
 sort: title
+products: affiches
 ---
 Vous pouvez retrouver sur cette page l'ensemble des affiches que nous créons dans le cadre de la grève des loyers 2020.
