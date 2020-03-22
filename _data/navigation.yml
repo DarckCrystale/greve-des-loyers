@@ -5,7 +5,7 @@
       link: /affiches/
     - name: Visuels
       link: /visuels/
-    - name: Courriers
+    - name: Modèles de courriers
       link: /courriers/
 - name: News
   link: /blog/
