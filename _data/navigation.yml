@@ -1,5 +1,10 @@
 - name: Ressources
-  link: /ressources/
+  link: /#
+  dropdown:
+    - name: Toutes les ressources
+      link: /ressources/
+    - name: Affiches
+      link: /affiches/
 - name: News
   link: /blog/
 - name: Ajouter du contenu au site
