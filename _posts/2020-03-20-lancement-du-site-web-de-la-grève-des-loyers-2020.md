@@ -6,7 +6,7 @@ categories: site
 description: "Annonce de l'ouverture du site web au public"
 image: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/be338f83-db2d-43b8-9327-8233d94c70d5/ddsuh2n-8ce9663e-6b4a-4888-a17e-6f80ee22ad68.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JlMzM4ZjgzLWRiMmQtNDNiOC05MzI3LTgyMzNkOTRjNzBkNVwvZGRzdWgybi04Y2U5NjYzZS02YjRhLTQ4ODgtYTE3ZS02ZjgwZWUyMmFkNjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UFdQLlZESqF6iOGFHXRM6zMCLSrJJ8IaFO-nK07zm8A'
 published: true
-canonical_url: https://www.csrhymes.com/development/2019/02/09/getting-started-with-bulma-clean-theme.html
+canonical_url: https://darckcrystale.github.io/greve-des-loyers/site/2020/03/20/lancement-du-site-web-de-la-gr%C3%A8ve-des-loyers-2020
 ---
 
 Le site web regroupant les ressources concernant la grève des loyers 2020 est désormais ouvert au public !
