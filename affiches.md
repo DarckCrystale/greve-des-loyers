@@ -1,7 +1,7 @@
 ---
 title: Affiches
 subtitle: Ensemble des affiches réalisées dans le cadre de la grève des loyers 2020
-layout: product-category
+layout: categorie-affiche
 show_sidebar: false
 sort: title
 ---
