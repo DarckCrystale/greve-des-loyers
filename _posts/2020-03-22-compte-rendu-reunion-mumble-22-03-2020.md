@@ -9,10 +9,11 @@ published: true
 canonical_url: https://darckcrystale.github.io/greve-des-loyers/site/2020/03/20/compte-rendu-reunion-mumble-22-03-2020
 ---
 
-# Réunion grève des loyers 22 mars 2020, 16h
+Réunion grève des loyers 22 mars 2020, 16h
 
-Animation de la réunion : jean 
-Prise de notes : DarckCrystale et Eliot
+**Outil :** Mumble (mumble.framatalk.org)
+**Animation de la réunion :** jean 
+**Prise de notes :** DarckCrystale et Eliot
 
 ## Prochaine réunion
 Mercredi 25 mars, 16h sur Mumble : mumble.framatalk.org
