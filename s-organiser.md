@@ -18,6 +18,7 @@ Nous utilisons les logiciels suivant en fonction de nos besoins :
 - **Twitter :** réseau social
 - **Fediverse :** réseau social
 - **Instagram :** réseau social
+- **Etherpad :** logiciel de traitement de texte en ligne 
 
 ---
 
@@ -27,9 +28,9 @@ Tous les liens et informations utiles pour échanger, discuter, militer... avec 
 
 ## Telegram
 
-- Groupe public de discussion : [https://t.me/joinchat/C9clbRoMxplsqHh3a6Zu3w](https://t.me/joinchat/C9clbRoMxplsqHh3a6Zu3w)
-- Groupe de travail sur la rédaction d'un appel à diffuser plus largement : [https://t.me/joinchat/RAvZZhqDc7HI56aqpSrA1A](https://t.me/joinchat/RAvZZhqDc7HI56aqpSrA1A)
-- Groupe de travail pour ce site : [https://t.me/joinchat/RAvZZhi-Tyiaw5XWAWxe0Q](https://t.me/joinchat/RAvZZhi-Tyiaw5XWAWxe0Q)
+Groupe public de discussion 
+
+[https://t.me/joinchat/C9clbRoMxplsqHh3a6Zu3w](https://t.me/joinchat/C9clbRoMxplsqHh3a6Zu3w)
 
 ## Discord
 
@@ -43,6 +44,32 @@ Serveur de discussion et d'échanges
 
 ---
 
+# Rédaction des revendications et d'appel 
+
+## Telegram
+
+Groupe de travail
+
+[https://t.me/joinchat/RAvZZhqDc7HI56aqpSrA1A](https://t.me/joinchat/RAvZZhqDc7HI56aqpSrA1A)
+
+## Etherpad
+
+Proposition de revendications pour lancer l'appel à la grève
+
+[https://pads.tedomum.net/p/9fow-textegreveloyers-coronavirus](https://pads.tedomum.net/p/9fow-textegreveloyers-coronavirus?lang=fr)
+
+---
+
 # Maintenir le site
 
-*Rajout des informations en cours : Telegram, Jitsi*
+## Telegram 
+
+Groupe de travail
+
+[https://t.me/joinchat/RAvZZhi-Tyiaw5XWAWxe0Q](https://t.me/joinchat/RAvZZhi-Tyiaw5XWAWxe0Q)
+
+## Jitsi
+
+Outil de chat et partage d'écran pour travailler à plusieurs
+
+[https://meet.jit.si/greve-des-loyers](https://meet.jit.si/greve-des-loyers)
