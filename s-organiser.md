@@ -27,9 +27,9 @@ Tous les liens et informations utiles pour échanger, discuter, militer... avec 
 
 ## Telegram
 
-Groupe public de discussion
-
-[https://t.me/joinchat/C9clbRoMxplsqHh3a6Zu3w](https://t.me/joinchat/C9clbRoMxplsqHh3a6Zu3w)
+- Groupe public de discussion : [https://t.me/joinchat/C9clbRoMxplsqHh3a6Zu3w](https://t.me/joinchat/C9clbRoMxplsqHh3a6Zu3w)
+- Groupe de travail sur la rédaction d'un appel à diffuser plus largement : [https://t.me/joinchat/RAvZZhqDc7HI56aqpSrA1A](https://t.me/joinchat/RAvZZhqDc7HI56aqpSrA1A)
+- Groupe de travail pour ce site : [https://t.me/joinchat/RAvZZhi-Tyiaw5XWAWxe0Q](https://t.me/joinchat/RAvZZhi-Tyiaw5XWAWxe0Q)
 
 ## Discord
 
